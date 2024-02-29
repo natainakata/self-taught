@@ -6,5 +6,7 @@ class Orange:
 
 
 or1 = Orange(10, "dark orange")
+or1.weight = 100
+or1.color = "light orange"
 print(or1.weight)
 print(or1.color)
